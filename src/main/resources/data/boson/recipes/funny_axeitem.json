@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@@ ",
+    "@# ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "nocitome:item_core"
+    },
+    "@": {
+      "item": "nocitome:food_funny"
+    }
+  },
+  "result": {
+    "item": "nocitome:funny_axeitem",
+    "count": 1
+  }
+}

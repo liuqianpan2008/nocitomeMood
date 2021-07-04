@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "@": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "nocitome:item_core",
+    "count": 1
+  }
+}

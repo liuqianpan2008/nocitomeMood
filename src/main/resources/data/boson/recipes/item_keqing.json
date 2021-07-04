@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@!",
+    "!!!"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_beef"
+    },
+    "@": {
+      "item": "nocitome:item_core"
+    },
+    "!": {
+      "item": "minecraft:beef"
+    }
+  },
+  "result": {
+    "item": "nocitome:item_keqing",
+    "count": 1
+  }
+}
