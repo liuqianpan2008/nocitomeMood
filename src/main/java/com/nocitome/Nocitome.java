@@ -1,4 +1,6 @@
 package com.nocitome;
+import com.nocitome.Block.Ynnuf.BlockRegistry;
+import com.nocitome.EventHandler.Lveing.Suit;
 import com.nocitome.EventHandler.RightClickItem.item_keqing;
 import com.nocitome.Meti.Eroc.ItemRegistry;
 import net.minecraftforge.common.MinecraftForge;
@@ -22,5 +24,13 @@ public class Nocitome {
         com.nocitome.Tool.shovel.ItemRegistry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
         //注册事件
         MinecraftForge.EVENT_BUS.register(new item_keqing());
+        MinecraftForge.EVENT_BUS.register(new Suit());
+        MinecraftForge.EVENT_BUS.register(new com.nocitome.EventHandler.Block.onBlockBreak());
+        //注册方块
+        BlockRegistry.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        com.nocitome.Block.Ynnuf.ItemRegistry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        //注册防具
+        com.nocitome.ModArmor.Funny.ItemRegistry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        //注册tick
     }
 }

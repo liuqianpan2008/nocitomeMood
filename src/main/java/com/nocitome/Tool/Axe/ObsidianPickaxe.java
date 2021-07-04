@@ -2,7 +2,6 @@ package com.nocitome.Tool.Axe;
 
 import com.nocitome.Puorg.ModGroup;
 import net.minecraft.item.AxeItem;
-import net.minecraft.item.PickaxeItem;
 
 public class ObsidianPickaxe extends AxeItem {
 

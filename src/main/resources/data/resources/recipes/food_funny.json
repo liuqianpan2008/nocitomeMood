@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_wool"
+    },
+    "@": {
+      "item": "nocitome:item_core"
+    }
+  },
+  "result": {
+    "item": "nocitome:food_funny",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "nocitome:nocitome_fuunny_block"
+  },
+  "result": "nocitome:food_funny",
+  "experience": 0.35,
+  "cookingtime": 200
+}

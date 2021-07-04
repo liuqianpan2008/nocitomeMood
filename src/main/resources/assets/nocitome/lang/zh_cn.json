@@ -8,5 +8,11 @@
   "item.nocitome.funny_axeitem":"滑稽斧",
   "item.nocitome.funny_hoe":"滑稽锄",
   "item.nocitome.funny_pickaxe":"滑稽稿",
-  "item.nocitome.funny_shovel":"滑稽铲"
+  "item.nocitome.funny_shovel":"滑稽铲",
+  "block.nocitome.nocitome_fuunny_block": "滑稽矿",
+
+  "item.nocitome.funny_helmet": "滑稽头盔",
+  "item.nocitome.funny_chestplate": "滑稽胸甲",
+  "item.nocitome.funny_leggings": "滑稽裤",
+  "item.nocitome.funny_boots": "滑稽鞋"
 }

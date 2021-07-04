@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@ @",
+    "@ @"
+
+  ],
+  "key": {
+    "@": {
+      "item": "nocitome:food_funny"
+    }
+  },
+  "result": {
+    "item": "nocitome:funny_boots",
+    "count": 1
+  }
+}
