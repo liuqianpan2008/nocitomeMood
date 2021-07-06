@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond"
+          "name": "nocitome:nocitome_fuunny_block"
         }
       ],
       "conditions": [

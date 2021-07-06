@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:beef"
+    },
+    "@": {
+      "item": "nocitome:item_core"
+    }
+  },
+  "result": {
+    "item": "nocitome:food_hutao",
+    "count": 1
+  }
+}
